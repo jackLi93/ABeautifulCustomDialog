@@ -8,6 +8,7 @@
 
 **效果图如下**
 
+![dialog](http://upload-images.jianshu.io/upload_images/1307647-7c2a276dfcbb8551.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **实现原理**
 
